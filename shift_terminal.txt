@@ -1,0 +1,72 @@
+--------------------------------------
+---          CRIPTOGRAFIA          ---
+--------------------------------------
+1. CRIPTOGRAFAR 
+2. DESCRIPTOGRAFAR 
+3. SAIR 
+DIGITE SUA OPCAO: 1
+--------------------------------------
+---          CRIPTOGRAFIA          ---
+--------------------------------------
+Digite sua frase: isso eh apenas um teste de criptografia
+Qual a chave de deslocamento: 3
+--------------------------------------
+---          CRIPTOGRAFIA          ---
+--------------------------------------
+Chave de Deslocamento: 3
+Texto original: isso eh apenas um teste de criptografia
+Texto cifrado : lvvr hk dshqdv xp whvwh gh fulswrjudild
+
+--------------------------------------
+---          CRIPTOGRAFIA          ---
+--------------------------------------
+1. CRIPTOGRAFAR 
+2. DESCRIPTOGRAFAR 
+3. SAIR 
+DIGITE SUA OPCAO: 2
+--------------------------------------
+-           DESCRIPTOGRAFIA          -
+--------------------------------------
+Digite sua frase cifrada: lvvr hk dshqdv xp whvwh gh fulswrjudild
+
+>>> ATAQUE POR FORÇA BRUTA:
+k= 1 | kuuq gj crgpcu wo vguvg fg etkrvqitchkc
+k= 2 | jttp fi bqfobt vn uftuf ef dsjquphsbgjb
+k= 3 | isso eh apenas um teste de criptografia
+k= 4 | hrrn dg zodmzr tl sdrsd cd bqhosnfqzehz
+k= 5 | gqqm cf ynclyq sk rcqrc bc apgnrmepydgy
+k= 6 | fppl be xmbkxp rj qbpqb ab zofmqldoxcfx
+k= 7 | eook ad wlajwo qi paopa za ynelpkcnwbew
+k= 8 | dnnj zc vkzivn ph oznoz yz xmdkojbmvadv
+k= 9 | cmmi yb ujyhum og nymny xy wlcjnialuzcu
+k=10 | bllh xa tixgtl nf mxlmx wx vkbimhzktybt
+k=11 | akkg wz shwfsk me lwklw vw ujahlgyjsxas
+k=12 | zjjf vy rgverj ld kvjkv uv tizgkfxirwzr
+k=13 | yiie ux qfudqi kc juiju tu shyfjewhqvyq
+k=14 | xhhd tw petcph jb ithit st rgxeidvgpuxp
+k=15 | wggc sv odsbog ia hsghs rs qfwdhcufotwo
+k=16 | vffb ru ncranf hz grfgr qr pevcgbtensvn
+k=17 | ueea qt mbqzme gy fqefq pq odubfasdmrum
+k=18 | tddz ps lapyld fx epdep op nctaezrclqtl
+k=19 | sccy or kzoxkc ew docdo no mbszdyqbkpsk
+k=20 | rbbx nq jynwjb dv cnbcn mn larycxpajorj
+k=21 | qaaw mp ixmvia cu bmabm lm kzqxbwozinqi
+k=22 | pzzv lo hwluhz bt alzal kl jypwavnyhmph
+k=23 | oyyu kn gvktgy as zkyzk jk ixovzumxglog
+k=24 | nxxt jm fujsfx zr yjxyj ij hwnuytlwfknf
+k=25 | mwws il etirew yq xiwxi hi gvmtxskvejme
+
+>>> ATAQUE POR ANÁLISE DE FREQUÊNCIA (COMPARAÇÃO DE DISTRIBUIÇÃO):
+Chave estimada: 3
+Erro médio: 45,51
+Mensagem provável: isso eh apenas um teste de criptografia
+
+--------------------------------------
+---          CRIPTOGRAFIA          ---
+--------------------------------------
+1. CRIPTOGRAFAR
+2. DESCRIPTOGRAFAR 
+3. SAIR
+DIGITE SUA OPCAO: 3
+
+Saindo...

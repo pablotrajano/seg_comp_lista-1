@@ -1,0 +1,82 @@
+--------------------------------------
+---          CRIPTOGRAFIA          ---
+--------------------------------------
+1. CRIPTOGRAFAR 
+2. DESCRIPTOGRAFAR 
+3. SAIR 
+DIGITE SUA OPCAO: 1
+Digite o texto a ser criptografado (sem acentos):
+issoehapenasumtestedecriptografiasobresegurancadigital
+Informe a ordem de permutação das colunas (4 números distintos entre 0 e 3):
+Posição 1: 2
+Posição 2: 0
+Posição 3: 1
+Posição 4: 3
+
+Matriz preenchida (14x4):
+i s s o 
+e h a p 
+e n a s 
+u m t e 
+s t e d 
+e c r i 
+p t o g 
+r a f i 
+a s o b 
+r e s e 
+g u r a 
+n c a d 
+i g i t 
+a l X X 
+
+Texto criptografado:
+saaterofosraiXieeuseprargniashnmtctaseucglopsedigibeadtX
+--------------------------------------
+---          CRIPTOGRAFIA          ---
+--------------------------------------
+1. CRIPTOGRAFAR 
+2. DESCRIPTOGRAFAR 
+3. SAIR 
+DIGITE SUA OPCAO: 2
+Digite o texto criptografado:
+saaterofosraiXieeuseprargniashnmtctaseucglopsedigibeadtX
+
+--- FORÇA BRUTA COM ANÁLISE DE FREQUÊNCIA ---
+Permutação  1 (0123): sisoaehpaenstumeestdrecioptgfraioasbsreerguaancdiigtXalX [distância=9,45]
+Permutação  2 (0132): siosaephaesntuemesdtreicopgtfriaoabssreergauandciitgXaXl [distância=9,81]
+Permutação  3 (0213): ssioahepanestmueetsdrceiotpgfariosabsererugaacndigitXlaX [distância=9,45]
+Permutação  4 (0231): soisapehasenteumedstriecogptfiraobassereraguadncitigXXal [distância=9,81]
+Permutação  5 (0312): ssoiahpeansetmeuetdsrcieotgpfairosbaseerruagacdnigtiXlXa [distância=9,81]
+Permutação  6 (0321): sosiapheasnetemuedtsriceogtpfiarobsaseerraugadcnitgiXXla [distância=9,81]
+Permutação  7 (1023): issoeahpeansutmesetdercipotgrfaiaosbrseegruanacdiigtaXlX [distância=9,45]
+Permutação  8 (1032): isoseapheasnutemsedtericpogtrfiaaobsrseegraunadciitgaXXl [distância=9,81]
+Permutação  9 (1203): ssiohaepnaesmtuetesdcreitopgafrisoabesreurgacandgiitlXaX [distância=9,45]
+Permutação 10 (1230): osispaehsaenetumdestirecgoptifraboasesreargudanctiigXXal [distância=9,81]
+Permutação 11 (1302): ssoihapenasemteutedscrietogpafirsobaeseruragcadngitilXXa [distância=9,81]
+Permutação 12 (1320): ossipahesaneetmudetsircegotpifarbosaeserarugdacntigiXXla [distância=9,81]
+Permutação 13 (2013): issoehapenasumtestedecriptografiasobresegurancadigitalXX [distância=9,43]
+Permutação 14 (2031): iossepahesanuetmsdeteircpgotrifaabosresegarundacitigaXXl [distância=9,81]
+Permutação 15 (2103): sisoheapneasmutetsedceritpogarfisaoberseugracnadgiitlaXX [distância=9,43]
+Permutação 16 (2130): oisspeahseaneutmdsetiercgpotirfabaoserseagrudnactiigXaXl [distância=9,81]
+Permutação 17 (2301): sosihpaensaemetutdesciretgopaifrsboaeesruargcdangtiilXXa [distância=9,81]
+Permutação 18 (2310): ossiphaesnaeemtudtesicregtopiafrbsoaeesraurgdcantgiiXlXa [distância=9,81]
+Permutação 19 (3012): isosehpaensaumetstdeecirptgoraifasboreesguarncdaigtialXX [distância=9,43]
+Permutação 20 (3021): iossephaesnauemtsdteeicrpgtoriafabsoreesgaurndcaitgiaXlX [distância=9,45]
+Permutação 21 (3102): sioshepanesamuettsdeceirtpgoarifsaboeresugarcndagitilaXX [distância=9,43]
+Permutação 22 (3120): oisspehasenaeumtdsteiecrgptoirafbasoeresagurdncatigiXalX [distância=9,45]
+Permutação 23 (3201): soishpeanseameuttdseciertgpoairfsbaoeersuagrcdnagtiilXaX [distância=9,45]
+Permutação 24 (3210): osispheasneaemutdtseicergtpoiarfbsaoeersaugrdcnatgiiXlaX [distância=9,45]
+
+--- MELHOR TENTATIVA PELA FREQUÊNCIA ---
+Ordem: 2013
+Texto mais próximo do português:
+issoehapenasumtestedecriptografiasobresegurancadigitalXX
+--------------------------------------
+---          CRIPTOGRAFIA          ---
+--------------------------------------
+1. CRIPTOGRAFAR
+2. DESCRIPTOGRAFAR
+3. SAIR
+DIGITE SUA OPCAO: 3
+
+Saindo...
