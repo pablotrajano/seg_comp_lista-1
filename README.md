@@ -1,2 +1,2 @@
-# seg_comp_lista-1
+# seg_comp_lista_1
 Códigos referentes à lista 01 de Segurança Computacional
